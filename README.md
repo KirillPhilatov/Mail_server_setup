@@ -1,6 +1,6 @@
 ### Description
 
-This setup is based on [OpenSMTPD](https://opensmtpd.org/), [Dovecot](https://www.dovecot.org/) and [Rspamd](https://www.rspamd.com/)
+This setup is based on [OpenSMTPD](https://opensmtpd.org/), [Dovecot](https://www.dovecot.org/) and [Rspamd](https://www.rspamd.com/).
 
 OpenSTMPD and the other software required by this installation runs on everything.
 At the [link section](#links) you'll find step by step instructions for FreeBSD, Linux and OpenBSD.
@@ -14,8 +14,9 @@ OpenSMTPD supports sqlite.
 
 ### Prerequisites
 
-This setup sugestes that you have required DNS records and all needed packages installed.
-
+This setup supposes that you have required DNS records and all needed packages installed.
+[This filter](https://github.com/poolpOrg/filter-rspamd) is used for integrating Rspamd with OpenSMTPD.
+You can install it from packages on BSD systems or compile it from source on Linux.
 You also have to add vmail user in your system.
 
 ### Links
@@ -29,7 +30,7 @@ take a look at:
 
 written by one of the main authors of OpenSMTPD, who is also running blog at
 
-poolp.org
+https://poolp.org
 
 where you can find many other useful materials and news about OpenSMTPD.
 
