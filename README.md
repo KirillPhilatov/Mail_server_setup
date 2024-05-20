@@ -47,3 +47,11 @@ where you can find many other useful materials and news about OpenSMTPD.
 - https://prefetch.eu/blog/2022/email-server-revisited/
 
 - https://github.com/poolpOrg/poolp.org/blob/master/content/posts/2019-09-14/index.md
+
+#### Check your setup
+
+You can check your mail server via one of these services:
+
+- https://check.smtp.bz/
+
+- https://dkimvalidator.com/
