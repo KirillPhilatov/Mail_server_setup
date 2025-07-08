@@ -48,6 +48,8 @@ where you can find many other useful materials and news about OpenSMTPD.
 
 - https://github.com/poolpOrg/poolp.org/blob/master/content/posts/2019-09-14/index.md
 
+- https://www.bsdcan.org/2019/schedule/attachments/515_smtpd_tutorial.pdf
+
 #### Check your setup
 
 You can check your mail server via one of these services:
